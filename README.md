@@ -3,7 +3,7 @@
 This project explores how user engagement behaviors—such as likes, check-ins, and following a company page—impact airline ticket purchases.  
 The ultimate goal is to optimize **ROI on digital marketing campaigns** by uncovering actionable behavioral insights.
 
----
+
 
 ## 🧪 Project Highlights
 
@@ -11,7 +11,7 @@ The ultimate goal is to optimize **ROI on digital marketing campaigns** by uncov
 - Performed **exploratory data analysis (EDA)** to identify trends, correlations, and key user segments.
 - Provided insight-driven recommendations to enhance targeting and improve **marketing ROI**.
 
----
+
 
 ## ❓ Business Questions Answered
 
@@ -23,7 +23,7 @@ The ultimate goal is to optimize **ROI on digital marketing campaigns** by uncov
 - How much time do users spend engaging with travel content, and does that relate to conversion?
 - What user demographics show the highest likelihood of converting?
 
----
+
 
 ## 📈 Key Insights
 
@@ -35,7 +35,6 @@ The ultimate goal is to optimize **ROI on digital marketing campaigns** by uncov
 - **70% of users** are not following the company page, yet many still engage with content.
 - **Higher time spent** on travel pages **does not always** correlate with purchase intent.
 
----
 
 ## ✅ Recommendations
 
