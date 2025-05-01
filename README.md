@@ -1,10 +1,9 @@
 # ✈️ Content Engagement & Airline Ticket Purchase Analysis
 
-This project explores how user engagement behaviors—such as likes, check-ins, and following a company page—impact airline ticket purchases. 
+This project explores how user engagement behaviors—such as likes, check-ins, and following a company page—impact airline ticket purchases.  
 The ultimate goal is to optimize **ROI on digital marketing campaigns** by uncovering actionable behavioral insights.
 
 ---
-
 
 ## 🧪 Project Highlights
 
@@ -35,7 +34,7 @@ The ultimate goal is to optimize **ROI on digital marketing campaigns** by uncov
 - **Beach** and **Financial** (business) destinations are most preferred.
 - **70% of users** are not following the company page, yet many still engage with content.
 - **Higher time spent** on travel pages **does not always** correlate with purchase intent.
-  
+
 ---
 
 ## ✅ Recommendations
@@ -49,6 +48,4 @@ The ultimate goal is to optimize **ROI on digital marketing campaigns** by uncov
 - **Promote Popular Destinations:** Focus marketing on beach and business destinations, as users prefer these locations.
 
 - **Review Pricing Strategy:** Low ticket purchases may indicate pricing issues. Assess if the price is positioned competitively.
-
-
 
